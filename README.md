@@ -1,5 +1,5 @@
 
-# JUnit 5 Testing with ContactManager
+# JUnit 5 (Jupiter API) Testing with ContactManager
 
 This project demonstrates how to use **JUnit 5** for unit testing a simple `ContactManager` Java class. It provides examples of different types of tests, including standard tests, parameterized tests, nested tests, and lifecycle callbacks.
 
